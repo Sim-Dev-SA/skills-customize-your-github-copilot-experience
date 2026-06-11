@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "algorithms-search-sorting",
+      "title": "Algorithmic Thinking with Search and Sorting",
+      "description": "Implement and compare search/sorting algorithms to build problem-solving and efficiency skills",
+      "path": "assignments/algorithms-search-sorting",
+      "dueDate": "2026-06-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
